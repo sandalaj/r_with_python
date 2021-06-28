@@ -18,5 +18,5 @@ dependencies:
     - plotly
     - pandas
     - matplotlib
-    - scikitlearn
+    - sklearn
     - numpy
